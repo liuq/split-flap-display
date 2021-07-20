@@ -1,0 +1,27 @@
+.splitFlapDisplay_js_metadata <- function() {
+deps_metadata <- list(`split_flap_display` = structure(list(name = "split_flap_display",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-SplitFlapDisplay.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "splitFlapDisplay",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`split_flap_display` = structure(list(name = "split_flap_display",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-SplitFlapDisplay.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "splitFlapDisplay",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`split_flap_display` = structure(list(name = "split_flap_display",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'split_flap_display.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "splitFlapDisplay",
+all_files = FALSE), class = "html_dependency"),
+`split_flap_display` = structure(list(name = "split_flap_display",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'split_flap_display.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "splitFlapDisplay",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}

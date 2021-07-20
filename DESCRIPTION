@@ -1,0 +1,13 @@
+Package: splitFlapDisplay
+Title: A Porting, as a dash component, of the Reacth Split Flap display (https://github.com/jayKayEss/react-split-flap-effect).
+Version: 0.0.1
+Description: A Porting, as a dash component, of the Reacth Split Flap display (https://github.com/jayKayEss/react-split-flap-effect).
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/liuq/split-flap-display
+BugReports: https://github.com/liuq/split-flap-display/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

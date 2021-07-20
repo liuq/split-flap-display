@@ -1,0 +1,1 @@
+export const SplitFlapDisplay = React.lazy(() => import(/* webpackChunkName: "SplitFlapDisplay" */ './fragments/SplitFlapDisplay.react'));

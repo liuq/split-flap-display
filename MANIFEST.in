@@ -1,0 +1,11 @@
+include split_flap_display/split_flap_display.min.js
+include split_flap_display/split_flap_display.min.js.map
+include split_flap_display/async-*.js
+include split_flap_display/async-*.js.map
+include split_flap_display/*-shared.js
+include split_flap_display/*-shared.js.map
+include split_flap_display/metadata.json
+include split_flap_display/package-info.json
+include README.md
+include LICENSE
+include package.json
